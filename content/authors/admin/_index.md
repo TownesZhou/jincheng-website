@@ -41,8 +41,6 @@ user_groups:
   - University of Southern California
 highlight_name: false
 ---
-Jincheng Zhou is a graduate student at the University of Southern California. He currently works as a student worker at the Sigma Cognitive Architecture lab in USC Institute for Creative Technologies. His interests include cognitive architecture and modeling, probabilistic programming and graphical models, causal reasoning, knowledge graph, and reinforcement learning.
-
-
+Jincheng Zhou is a graduate student at the University of Southern California. He currently works as a student worker at the Sigma Cognitive Architecture lab in the USC Institute for Creative Technologies. His interests include cognitive architecture and modeling, probabilistic programming and graphical models, causal reasoning, knowledge graph, and reinforcement learning.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
