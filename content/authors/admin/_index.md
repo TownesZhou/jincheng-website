@@ -8,10 +8,12 @@ bio: My research interests include cognitive architectures, cognitive modeling,
 interests:
   - Artificial General Intelligence
   - Cognitive Architecture and Systems
+  - Cognitive Modelling
   - Deep & Multi-Agent Reinforcement Learning
-  - Probabilistic Graphical Models and Programming
+  - Probabilistic Graphical Models & Programming
   - Knowledge Representation & Representation Learning
-  - Causal Reasoning
+  - Causal Inference & Discovery
+  - Natural Language Processing
 social:
   - icon: envelope
     icon_pack: fas
@@ -44,8 +46,8 @@ user_groups:
   - University of Southern California
 highlight_name: true
 ---
-Jincheng Zhou is a graduate student at the University of Southern California. I currently work as a student worker at the Sigma Cognitive Architecture lab in the USC Institute for Creative Technologies.  
+Jincheng Zhou is a graduate student at the University of Southern California. I currently work as a student worker at the Sigma Cognitive Architecture lab in the USC Institute for Creative Technologies. I received the Computer Science Outstanding Student Award from USC Viterbi School of Engineering when graduating with a B.S. degree in CS. 
 
-I am generally interested in Artificial General Intelligence, i.e., building a human-like, knowledge-based, generally intelligent system. At the current stage, my specific research interests are in cognitive architectures, cognitive modeling, deep & multi-agent reinforcement learning, probabilistic programming, probabilistic graphical models, knowledge representation & repreesntation learning, and causal reasoning. I believe research breakthroughs in these areas will be critical to the engineering of a next-generation integrated architecture of artificial intelligence. 
+I am generally interested in Artificial General Intelligence, i.e., building a human-like, knowledge-based, generally intelligent system. I believe this is the single most important technological breakthrough in the entirety of human history. My past research has been revolving around cognitive architectures, cognitive modeling, deep & multi-agent reinforcement learning, probabilistic graphical models & programming. At the current stage, I am also interested in knowledge representation & repreesntation learning, causal reasoning, and natural language processing. I believe research breakthroughs in all these areas will be critical to the engineering of a next-generation integrated architecture of artificial general intelligence. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
