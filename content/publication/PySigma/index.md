@@ -2,7 +2,10 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "PySigma: Towards Enhanced Grand Unification for the Sigma Cognitive Architecture"
-authors: ["*Jincheng Zhou*", "Volkan Ustun"]
+# authors: ["*Jincheng Zhou*", "Volkan Ustun"]
+authors:
+  - admin
+  - Volkan Ustun
 # date: 2021-10-06T00:00:00-08:00
 date: "in press"
 doi: ""

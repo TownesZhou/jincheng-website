@@ -2,7 +2,13 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Route Optimization in Service of a Search and Rescue Artificial Social Intelligence Agent"
-authors: [Yunzhe Wang, Nikolos Gurney, Jincheng Zhou, David V. Pynadath, Volkan Ustun]
+# authors: [Yunzhe Wang, Nikolos Gurney, Jincheng Zhou, David V. Pynadath, Volkan Ustun]
+authors:
+  - Yunzhe Wang
+  - Nikolos Gurney
+  - admin
+  - David V. Pynadath
+  - Volkan Ustun
 date: 2021-09-22T00:00:00-08:00
 doi: ""
 
