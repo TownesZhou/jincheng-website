@@ -1,4 +1,6 @@
 ---
+draft: true # Make it a draft so it is hidden and only shows up when preview website locally
+
 title: Example Project
 summary: An example of using the in-built project page.
 tags:
