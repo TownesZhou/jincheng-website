@@ -50,4 +50,4 @@ Jincheng Zhou is a graduate student at the University of Southern California. I 
 
 I am generally interested in Artificial General Intelligence, i.e., building a human-like, knowledge-based, generally intelligent system. I believe this is the single most important technological breakthrough in the entirety of human history. My past research has been revolving around cognitive architectures, cognitive modeling, deep & multi-agent reinforcement learning, probabilistic graphical models & programming. At the current stage, I am also interested in knowledge representation & repreesntation learning, causal reasoning, and natural language processing. I believe research breakthroughs in all these areas will be critical to the engineering of a next-generation integrated architecture of artificial general intelligence. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.
