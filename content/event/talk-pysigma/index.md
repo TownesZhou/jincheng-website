@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "*PySigma*: Towards Enhanced Grand Unification for the Sigma Cognitive Architecture"
+title: "PySigma: Towards Enhanced Grand Unification for the Sigma Cognitive Architecture"
 event: The 14th Conference on Artificial General Intelligence
 event_url: http://agi-conf.org/2021/
 location: SF Bay Area
@@ -67,3 +67,5 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+{{< youtube evXLHTFTgxQ>}}
