@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "PySigma: Towards Enhanced Grand Unification for the Sigma Cognitive Architecture"
+title: "*PySigma*: Towards Enhanced Grand Unification for the Sigma Cognitive Architecture"
 # authors: ["*Jincheng Zhou*", "Volkan Ustun"]
 authors:
   - admin
