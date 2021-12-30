@@ -1,5 +1,5 @@
 ---
-draft: true  # Make it a draft so it is hidden and only shows up when preview website locally
+draft: false  # Make it a draft so it is hidden and only shows up when preview website locally
 
 title: "An example conference paper"
 
