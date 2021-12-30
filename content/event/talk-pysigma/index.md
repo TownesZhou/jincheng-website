@@ -36,7 +36,7 @@ featured: true
 image:
   caption: ""
   focal_point: "Smart"
-  preview_only: false
+  preview_only: true   # Already have a Youtube embed with the same preview picture.
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -47,7 +47,7 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your event's folder or a URL.
-# url_slides:
+url_slides: https://docs.google.com/presentation/d/1L1zrTQIe7WozLZfIwyA7cLeo_6mgKs3u2zKJF8liWVc/edit?usp=sharing
 
 # url_code:
 # url_pdf:
