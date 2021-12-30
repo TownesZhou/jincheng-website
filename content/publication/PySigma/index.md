@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "PySigma: Towards Enhanced Grand Unification for the Sigma Cognitive Architecture"
-authors: [Jincheng Zhou, Volkan Ustun]
+authors: ["*Jincheng Zhou*", "Volkan Ustun"]
 # date: 2021-10-06T00:00:00-08:00
 date: "in press"
 doi: ""
@@ -17,7 +17,7 @@ publishDate: 2021-12-29T17:49:16-08:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In the *Proceedings of the 14th Conference on Artificial General Intelligence*"
+publication: "In *Proceedings of the 14th Conference on Artificial General Intelligence*"
 publication_short: "In *AGI-21*"
 
 abstract: "The Sigma cognitive architecture is the beginning of an integrated computational model of intelligent behavior aimed at the grand goal of articial general intelligence (AGI). However, whereas it has been proven to be capable of modeling a wide range of intelligent behaviors, the existing implementation of Sigma has suered from several signicant limitations. The most prominent one is the inadequate support for inference and learning on continuous variables. In this article, we propose solutions for this limitation that should together enhance Sigma's level of grand unication; that is, its ability to span both traditional cognitive capabilities and key non-cognitive capabilities central to general intelligence, bridging the gap between symbolic, probabilistic, and neural processing. The resulting design changes converge on a more capable version of the architecture called PySigma. We demonstrate such capabilities of PySigma in neural probabilistic processing via deep generative models, specically variational autoencoders, as a concrete example."
@@ -25,7 +25,7 @@ abstract: "The Sigma cognitive architecture is the beginning of an integrated co
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [Cognitive Architecture]
+tags: [Cognitive Architecture, Probabilistic Graphical Models, Approximate Inference]
 categories: []
 featured: true
 
