@@ -18,6 +18,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F5lRc3LFmrsZiElLLOKpyOyp28iNEvgh_pakvldKZiLTPIvIVliyXS-Awrmv23c3Jx0iyS-VsghuMzdjGMbOsmerEIm9A&user=-3BQQJ4AAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/TownesZhou/
