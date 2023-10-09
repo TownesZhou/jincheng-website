@@ -1,19 +1,14 @@
 ---
 title: Jincheng Zhou
-role: Graduate Student
-bio: My research interests include cognitive architectures, cognitive modeling, 
-  deep & multi-agent reinforcement learning, 
-  probabilistic programming, probabilistic graphical models, 
-  knowledge representation & repreesntation learning, and causal reasoning.
+role: Ph.D. Student
+bio: My research interests include graph representation learning and applications to knowledge graphs, causal inference and causal structural discovery, meta learning, cognitive architectures, and artificial general intelligence.
 interests:
+  - Graph Representation Learning
+  - Knowledge Graphs
+  - Causal Inference & Causal Structural Discovery
+  - Meta Learning
+  - Cognitive Architectures
   - Artificial General Intelligence
-  - Cognitive Architecture and Systems
-  - Cognitive Modelling
-  - Deep & Multi-Agent Reinforcement Learning
-  - Probabilistic Graphical Models & Programming
-  - Knowledge Representation & Representation Learning
-  - Causal Inference & Discovery
-  - Natural Language Processing
 social:
   - icon: google-scholar
     icon_pack: ai
@@ -27,33 +22,36 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/jincheng-zhou-042096176/
-  - icon: envelope
-    icon_pack: fas
-    link: /#contact
+  # - icon: envelope
+  #   icon_pack: fas
+  #   link: /#contact
 organizations:
-  - name: University of Southern California
-    url: https://homeadmin.usc.edu/www/
-  - name: USC Institute for Creative Technologies
-    url: https://ict.usc.edu/
+  - name: Purdue University, Department of Computer Science
+    url: https://www.cs.purdue.edu/
 education:
   courses:
+    - course: Ph.D. in Computer Science (in progress)
+      institution: Purdue University
+      year: 2027 (expected)
     - course: MS in Computer Science
       institution: University of Southern California
-      year: 2022 (in progress) 
+      year: 2022 
     - course: BS in Computer Science
       institution: University of Southern California
       year: 2021
     - course: BS in Mathematics
       institution: University of Southern California
       year: 2021
-email: jinchenz@usc.edu
+email: zhou791@purdue.edu
 superuser: true
 user_groups:
-  - University of Southern California
+  - Purdue University
 highlight_name: true
 ---
-Jincheng Zhou is a graduate student at the University of Southern California. I currently work as a student worker at the Sigma Cognitive Architecture lab in the USC Institute for Creative Technologies. I received the Computer Science Outstanding Student Award from USC Viterbi School of Engineering when graduating with a B.S. degree in CS. 
+I am a CS Ph.D. student at Purdue University advised by [Professor Bruno Ribeiro](https://www.cs.purdue.edu/homes/ribeirob/) in the [PurdueMINDS Lab](https://minds.science.purdue.edu/). Before joining Purdue, I was working with [Professor Paul Rosenbloom](https://sites.usc.edu/rosenbloom/) and [Dr. Volkan Ustun](https://www.linkedin.com/in/volkan-ustun-9883a74) at the Sigma cognitive architecture lab in the [USC Institute for Creative Technologies](https://ict.usc.edu/). I received the Computer Science Outstanding Student Award from USC Viterbi School of Engineering when graduating with a B.S. degree in CS.
 
-I am generally interested in Artificial General Intelligence, i.e., building a human-like, knowledge-based, generally intelligent system. I believe this is the single most important technological breakthrough in the entirety of human history. My past research has been revolving around cognitive architectures, cognitive modeling, deep & multi-agent reinforcement learning, probabilistic graphical models & programming. At the current stage, I am also interested in knowledge representation & represntation learning, causal reasoning, and natural language processing. I believe research breakthroughs in all these areas will be critical to the engineering of a next-generation integrated architecture of artificial general intelligence. 
+I am currently interested in graph representation learning and its application to reasoning in knowledge graphs, causal inference and causal structural discovery, meta learning, and artificial general intelligence. My past research has also involved cognitive architectures, multi-agent reinforcement learning, and probabilistic graphical models & programming. I believe research breakthroughs in all these areas will be critical to the development of a next-generation integrated architecture of artificial general intelligence.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.
+
+Contact me: zhou791 at purdue dot edu
