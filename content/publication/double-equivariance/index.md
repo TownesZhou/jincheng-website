@@ -51,7 +51,7 @@ links:
 - name: Workshop Page
   url: https://neurips.cc/virtual/2023/82330
 - name: Poster
-  url: https://docs.google.com/presentation/d/1nI3svzOopw213fC_VydOLUaR7cz-_XaP86o7OZY_naI/edit?usp=sharing
+  url: https://docs.google.com/presentation/d/1n-pPMpEQh3iax-gG88EW1NeoCgd3PYFoZtLxdYCMSs4/edit?usp=sharing
 - name: Slides
   url: https://drive.google.com/file/d/1vjvIE7m5HW6EIVSPUnwqTujA7jp0y03D/view?usp=sharing
 
