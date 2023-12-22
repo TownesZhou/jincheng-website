@@ -8,16 +8,22 @@ authors:
 date: "2023-10-03T00:00:00Z"
 doi: ""
 
+# Author notes (optional)
+author_notes:
+- Equal contribution
+- Equal contribution
+- Equal contribution
+
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-10-03T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["preprint"]
+publication_types: ["workshop"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Submitted to ICLR 2024 (under review)"
+publication: "NeurIPS 2023 New Frontiers in Graph Learning (GLFrontiers) (**Oral**)"
 publication_short: ""
 
 abstract: The task of inductive link prediction in discrete attributed multigraphs (e.g., knowledge graphs, multilayer networks, heterogeneous networks, etc.) generally focuses on test predictions with solely new nodes but not both new nodes and new relation types. In this work, we formally define the task of predicting (completely) new nodes and new relation types in test as a doubly inductive link prediction task and introduce a theoretical framework for the solution. We start by defining the concept of double permutation-equivariant representations that are equivariant to permutations of both node identities and edge relation types. We then propose a general blueprint to design neural architectures that impose a structural representation of relations that can inductively generalize from training nodes and relations to arbitrarily new test nodes and relations without the need for adaptation, side information, or retraining. We also introduce the concept of distributionally double equivariant positional embeddings designed to perform the same task. Finally, we empirically demonstrate the capability of the two proposed models on a set of novel real-world benchmarks, showcasing average relative performance gains of 39.65% on predicting new relations types compared to baselines.
@@ -27,7 +33,6 @@ tags:
 - Knowledge Graphs
 - Inductive Link Prediction
 - Graph Neural Networks
-- Permutation Equivariance
 - Double Equivariance
 featured: true
 
@@ -35,13 +40,20 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 url_pdf: https://arxiv.org/abs/2302.01313
-# url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_code: https://github.com/PurdueMINDS/ISDEA
 # url_dataset: '#'
 # url_poster: '#'
 # url_project: ''
-# url_slides: ''
+# url_slides: https://neurips.cc/virtual/2023/82330
 # url_source: '#'
 # url_video: '#'
+links:
+- name: Workshop Page
+  url: https://neurips.cc/virtual/2023/82330
+- name: Poster
+  url: https://docs.google.com/presentation/d/1nI3svzOopw213fC_VydOLUaR7cz-_XaP86o7OZY_naI/edit?usp=sharing
+- name: Slides
+  url: https://drive.google.com/file/d/1vjvIE7m5HW6EIVSPUnwqTujA7jp0y03D/view?usp=sharing
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -56,7 +68,7 @@ url_pdf: https://arxiv.org/abs/2302.01313
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- internal-project
+- double-equivariance
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

@@ -13,10 +13,10 @@ publishDate: "2023-07-12T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["preprint"]
+publication_types: ["workshop"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Submitted to NeurIPS 2023 GLFrontiers workshop (under review)"
+publication: "NeurIPS 2023 New Frontiers in Graph Learning (GLFrontiers)"
 publication_short: ""
 
 abstract: The task of inductive link prediction in (discrete) attributed multigraphs infers missing attributed links (relations) between nodes in new test multigraphs. Traditional relational learning methods face the challenge of limited generalization to OOD test multigraphs containing both novel nodes and novel relation types not seen in training. Recently, under the only assumption that all relation types share the same structural predictive patterns (single task), Gao et al. (2023) proposed an OOD link prediction method using the theoretical concept of double exchangeability (for nodes & relation types), in contrast to the (single) exchangeability (only for nodes) used to design Graph Neural Networks (GNNs). In this work we further extend the double exchangeability concept to multi-task double exchangeability, where we define link prediction in attributed multigraphs that can have distinct and potentially conflicting predictive patterns for different sets of relation types (multiple tasks). Our empirical results on real-world datasets demonstrate that our approach can effectively generalize to entirely new relation types in test, without access to additional information, yielding significant performance improvements over existing methods.
@@ -42,6 +42,11 @@ url_pdf: https://arxiv.org/abs/2307.06046
 # url_slides: ''
 # url_source: '#'
 # url_video: '#'
+links:
+- name: Workshop Page
+  url: https://neurips.cc/virtual/2023/82384
+- name: Poster
+  url: https://docs.google.com/presentation/d/1nI3svzOopw213fC_VydOLUaR7cz-_XaP86o7OZY_naI/edit?usp=sharing
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -56,7 +61,7 @@ url_pdf: https://arxiv.org/abs/2307.06046
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- internal-project
+- multi-task-equivariance
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
