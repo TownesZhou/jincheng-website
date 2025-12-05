@@ -1,5 +1,5 @@
 ---
-title: "Zero-shot Logical Query Reasoning on any Knowledge Graph"
+title: "A Foundation Model for Zero-shot Logical Query Reasoning"
 authors:
 - Mikhail Galkin
 - admin
@@ -17,10 +17,10 @@ publishDate: "2024-04-10T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["preprint"]
+publication_types: ["conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Arxiv Preprint"
+publication: "NeurIPS 2024"
 publication_short: ""
 
 abstract: Complex logical query answering (CLQA) in knowledge graphs (KGs) goes beyond simple KG completion and aims at answering compositional queries comprised of multiple projections and logical operations. Existing CLQA methods that learn parameters bound to certain entity or relation vocabularies can only be applied to the graph they are trained on which requires substantial training time before being deployed on a new graph. Here we present UltraQuery, an inductive reasoning model that can zero-shot answer logical queries on any KG. The core idea of UltraQuery is to derive both projections and logical operations as vocabulary-independent functions which generalize to new entities and relations in any KG. With the projection operation initialized from a pre-trained inductive KG reasoning model, UltraQuery can solve CLQA on any KG even if it is only finetuned on a single dataset. Experimenting on 23 datasets, UltraQuery in the zero-shot inference mode shows competitive or better query answering performance than best available baselines and sets a new state of the art on 14 of them. 
