@@ -1,16 +1,18 @@
 ---
 title: "Double Equivariance for Inductive Link Prediction for Both New Nodes and New Relation Types"
 authors:
+- admin
+- Yucheng Zhang
 - Jianfei Gao
 - Yangze Zhou
-- admin
 - Bruno Ribeiro
 date: "2023-10-03T00:00:00Z"
 doi: ""
 
 # Author notes (optional)
 author_notes:
-- Equal contribution
+-
+- 
 - Equal contribution
 - Equal contribution
 
